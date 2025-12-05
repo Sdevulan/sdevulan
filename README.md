@@ -1,8 +1,6 @@
 <div align="center">
     <h1>Hi 👋, I'm Senura Dulan</h1>
-    <a>
-        <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=500&size=28&pause=1000&color=769EF7&width=380&lines=Computer+Science+student;Back-End+Developer" alt="Typing SVG" />
-    </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=500&size=28&pause=1000&color=769EF7&center=true&vCenter=true&width=435&lines=Computer+Science+student;Back-End+Developer" alt="Typing SVG" /></a>
 </div>
 
 
