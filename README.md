@@ -11,10 +11,10 @@
 • Computer Science Undergraduate at the University of Ruhuna<br>• BackEnd Web Developer | Passionate about building modern web & mobile applications<br>• Currently diving deep into FullStack Development & Mobile Development<br>• Open to collaborating with fellow Developers<br>• Ask me anything about Frontend/Backend Development
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/senura.dulan.5/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senura-dulan-951361331/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:senuradulan.lk@gmail.com) 
 
-## Technologies Currently Using:
+## Technologies Currently Using
 <p align="left">
   <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -82,7 +82,7 @@
   </a>
 </p>
 
-## Tools Currently Using:
+## Tools Currently Using
 <p align="left">
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
